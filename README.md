@@ -1,2 +1,2 @@
 # SKKN-AI
-Ungứ dụng hỗ trợ viết SKKN
+Ứng dụng hỗ trợ viết SKKN
